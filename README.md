@@ -22,5 +22,5 @@ Exam Module.
 
 Contact Me
 [LinkedIn](https://www.linkedin.com/in/pankajsarmah/)
-[Email](mailto: pankajgoutam1278@gmail.com)
+[Email](mailto: pankajsarmah1278@gmail.com)
 Looking forward to collaborating with you!
