@@ -1,18 +1,16 @@
 Hi there, I'm Pankaj 👋
 
 About Me
-I'm a passionate software developer with 1 years of experience in building scalable web applications using modern technologies.
-I have a strong background in C++ and Python, and I'm always eager to learn new things.
+I'm a software engineer with 1 years of experience in building scalable web applications using modern technologies.
+I have a strong background Python, SQL , PL/SQL and APEX cloud development.
 
 Skills
-C++
+Pyhton
+PL/SQL
 Data Structures & Algo
 SDLC
 SQL
 
-Tech Stack
-Frontend: HTML, CSS, JS, React
-Backend: NodeJS 
 Database: Oracle, MySQL, PostgreSQL, MongoDB
 
 Projects :
